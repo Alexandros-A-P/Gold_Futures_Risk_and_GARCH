@@ -2,9 +2,9 @@
 Web scraping Gold Future contract data using R Studio and assessing Risk through VaR and Volatility-based measures. 
 
 Chapter 1: Data 
-- scraping financial data using quantmod in R Studio.
--  applying econometric transformations to enhance analysis.
--  Assess time series plots
+- Web scraping financial data using quantmod in R Studio.
+- Applying econometric transformations to enhance analysis.
+- Assess time series plots
 
 Chapter 2: Stationarity and Distributions.
 - Stationarity meaning, link to ARIMA.
